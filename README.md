@@ -1,16 +1,25 @@
-## Hi there 👋
+🪬
 
-<!--
-**luamendess/luamendess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lua Mendes
 
-Here are some ideas to get you started:
+🌙 Graduanda em Engenharia Biomédica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌙 Desenvolvo minha Iniciação Científica
+
+🌙 Trabalho com a Gestão de Projetos e Excelência Operacional Hospitalar
+
+🌙 Áreas de Interesse:
+* Neurologia
+* Otimização de processos
+* Machine Learning aplicado à saúde
+* Bioinformática 
+* Visualização e comunicação científica
+
+<div>
+  <a href="https://github.com/luamendess">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luamendess&show_icons=false&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendess&layout=compact&langs_count=16&theme=transparent"/>
+  </a>
+</div>
+
+##
