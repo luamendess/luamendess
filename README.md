@@ -23,3 +23,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/luamendess/luamendess/blob/output/github-contribution-grid-snake.svg)
