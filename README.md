@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/luamendess">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=luamendess&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendess&layout=compact&langs_count=6&theme=transparent"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luamendess&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendess&layout=compact&langs_count=6&theme=transparent"/>
   </a>
 </div>
 
